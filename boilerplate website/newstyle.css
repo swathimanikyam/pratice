@@ -1,0 +1,44 @@
+.profile_img{
+    
+    margin: 0;
+    margin-top: 50px;
+    margin-left: 160px;
+}
+
+ * {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    line-height: 50px;
+    background-color: #eee;
+    display: inline;
+    height: 50px;
+} */
+
+
+
+ .ul {
+    padding: 0;
+}
+
+.li {
+    margin-left: 20px;
+}
+
+.div {
+    height: 100vh;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.footer {
+    text-align: center;
+    padding: 50px;
+}  
